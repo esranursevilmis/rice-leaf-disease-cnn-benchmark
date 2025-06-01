@@ -9,8 +9,6 @@ This project is inspired by the research paper titled *"An Efficient Deep Learni
   - VGG16
   - MobileNetV2
   - ResNet50
-  - Xception
-  - GoogLeNet (InceptionV1)
 
 - Compare model performances using:
   - Accuracy
